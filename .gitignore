@@ -1,0 +1,14 @@
+
+# Python environments
+.venv/
+.venv-1/
+venv/
+__pycache__/
+*.pyc
+
+# Model file (large)
+models/*.pkl
+
+# Secrets and local configuration
+.env
+.DS_Store
