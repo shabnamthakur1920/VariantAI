@@ -56,3 +56,13 @@ This is an educational research prototype, not a clinically validated pathogenic
 ## Disclaimer
 
 For research and educational use only. VariantAI predictions are not clinical diagnoses or independently validated clinical classifications.
+
+## Application Screenshots
+
+### Variant Input Interface
+
+![VariantAI input interface](screenshots/variantai_input.png)
+
+### Prediction Results
+
+![VariantAI prediction results](screenshots/variantai_prediction.png)
